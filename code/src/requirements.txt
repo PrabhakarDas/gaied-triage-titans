@@ -1,0 +1,11 @@
+flask
+transformers
+python-dotenv
+pytesseract
+pdf2image
+PyPDF2
+email-reply-parser
+torch
+flask-cors
+fitz
+sentence-transformers
