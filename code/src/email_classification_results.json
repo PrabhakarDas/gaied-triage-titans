@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "Gmail - Fwd_ application format for closing bank account.pdf",
+    "request_type": "Closing Notice",
+    "confidence_score": 0.5322253108024597,
+    "reasoning": "TM Gmail Abhishek Paul abhishek.paulcp.dbs@gmail.com> Bank Request wonnnennn= Forwarded message --------- From: Abhishek Paul abhishek.paulcp.dbs@gmail.com>",
+    "extracted_fields": {
+      "amounts": [
+        "1",
+        "25",
+        "1",
+        "30",
+        "24",
+        "8",
+        "123",
+        "20",
+        "456"
+      ],
+      "expiration_dates": [],
+      "deal_names": []
+    }
+  }
+]
